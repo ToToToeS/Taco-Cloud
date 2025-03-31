@@ -3,8 +3,6 @@ package sia.tacocloud;
 
 import lombok.Data;
 
-import java.lang.reflect.Type;
-
 @Data
 public class Ingredient {
 
